@@ -1,9 +1,9 @@
 document.addEventListener("DOMContentLoaded", function() {
-    var button1 = document.getElementById("button1");
-    var button2 = document.getElementById("button2");
-    var button3 = document.getElementById("button3");
-    var button4 = document.getElementById("button4");
-    var button5 = document.getElementById("button5");
+    let button1 = document.getElementById("button1");
+    let button2 = document.getElementById("button2");
+    let button3 = document.getElementById("button3");
+    let button4 = document.getElementById("button4");
+    let button5 = document.getElementById("button5");
     button1.addEventListener("click", function() {
         window.location.href = "index.html";
     });
