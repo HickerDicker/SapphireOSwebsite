@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
         window.location.href = "index.html";
     });
     button2.addEventListener("click", function() {
-        window.location.href = "unsupported.html";
+        window.location.href = "Unsupported.html";
     });
     button3.addEventListener("click", function() {
         window.location.href = "OSscreenshots.html";
